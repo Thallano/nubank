@@ -6,7 +6,7 @@ export const Container = styled.View`
   justify-content: center;
 
 `;
-//#8B10AE
+
 //#00AFEF
 export const Content = styled.View`
   flex: 1;
